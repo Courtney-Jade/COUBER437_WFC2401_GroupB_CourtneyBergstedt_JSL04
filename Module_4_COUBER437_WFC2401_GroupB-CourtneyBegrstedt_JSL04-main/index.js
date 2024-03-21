@@ -14,7 +14,8 @@ console.log(cansLeft < 5 ? 'Time to restock' : 'We're stocked!');
 
 
 let heartRate = 95; // Current heart rate in bpm
-console.log(heartRate < 100 ? 'Boost needed!' : 'Energy levels are high!');
+let message = (heartRate < 100) ? "Boost needed!" : "Energy levels are high!";
+console.log(message);
 
 
 
