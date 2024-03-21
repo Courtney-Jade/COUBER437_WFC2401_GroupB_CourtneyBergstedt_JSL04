@@ -1,4 +1,4 @@
-#JSL04 Monster Ternary Operators
+JSL04 Monster Ternary Operators
 
  - In this project we explore ternary operator in JavaScript. This project helps to understand and utilize ternary operators effectively when coding.
 
