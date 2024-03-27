@@ -9,7 +9,7 @@ console.log(flavorSelection);
 
 
 let cansLeft = 3; // Any number of cans
-let restockMessage = (cansLeft < 5) ? 'Time to restock' : 'We stocked!'; // A message will be assigned depending on the condition
+let restockMessage = (cansLeft < 5) ? 'Time to restock!' : 'We stocked!'; // A message will be assigned depending on the condition
 console.log(restockMessage); 
 
 
